@@ -64,3 +64,10 @@ git<?xml version="1.0" encoding="utf-8"?>
     git checkout branch name
     git merge master
     git push origin master
+
+    git pull --rebase
+    git push
+
+
+
+hhahhahaha
